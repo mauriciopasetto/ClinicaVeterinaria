@@ -17,10 +17,10 @@
             android:name=".TelaUsuarioActivity"
             android:exported="false" />
         <activity
-            android:name=".TelaInicialActivity"
+            android:name=".CadastroUserActivity"
             android:exported="false" />
         <activity
-            android:name=".CadastroUserActivity"
+            android:name=".TelaInicialActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
